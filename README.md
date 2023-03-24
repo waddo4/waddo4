@@ -1,4 +1,9 @@
-### Hi there 👋
+# Nick Waddington
+
+- 👋 Hi, I’m Nick. I'm a junior software developer based in Sydney.
+- 🌱 I’m currently learning Flutter, Dart & SQL.
+- ⚡ Future projects: An Ecommerce site, a web scraper, an incremental mobile game.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nick-waddington/)
 
 <!--
 **waddo4/waddo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
