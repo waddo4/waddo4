@@ -1,7 +1,7 @@
 # Nick Waddington
 
-- 👋 Hi, I’m Nick. I'm a junior software developer based in Sydney.
-- 🌱 I’m currently learning Typescript, Python, SQL, Flutter and Dart.
+- 👋 Hi, I’m Nick. I'm a software developer based in Sydney.
+- 🌱 I’m currently learning Flutter + Dart, SQL, C# and Python.
 - 🔭 I’m currently working on a webscraper project.
 - ⚡ Future projects: An Ecommerce site, an incremental mobile game.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nick-waddington/)
